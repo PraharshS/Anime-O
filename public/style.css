@@ -1,8 +1,11 @@
-.card {
-    margin: 5% 0%;
+img{
+    height: 400px !important;
 }
 
-.card-body {
-    margin: 0% 0% 0% 3%;
-    padding: 6% 0%;
+.card-body{
+    background: #e9ecef;
+}
+
+form{
+    width: 400px;
 }
